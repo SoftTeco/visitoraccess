@@ -11,9 +11,9 @@ The Workhealth app was designed to help medical specialists timely identify any 
 - [Sequelize](https://github.com/sequelize/sequelize) 
 - [Swagger](https://github.com/swagger-api/swagger-node)
 # Architecture
-![image](architecture.png)
+![image](assets/architecture.png)
 # Use case diagram
-![image](usecases.png)
+![image](assets/usecases.png)
 
 # Contact information
 <info@softteco.com>
