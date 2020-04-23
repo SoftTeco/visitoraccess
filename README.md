@@ -11,7 +11,7 @@ The VisitorAccess application is designed to help medical facilities control the
 - [Sequelize](https://github.com/sequelize/sequelize) 
 - [Swagger](https://github.com/swagger-api/swagger-node)
 # Architecture
-![image](assets/architecture2.png)
+![image](assets/architecture.png)
 # Use case diagram
 ![image](assets/usecases.png)
 
