@@ -16,6 +16,19 @@ Developed by [SoftTeco](https://softteco.com) and [Kanda Software](https://www.k
 ![image](assets/usecases.png)
 
 # Contact information
+![image](assets/SoftTeco.png)
+<br>
+https://softteco.com
+<br>
 <info@softteco.com>
+<br>
+<br>
+
+![image](assets/Kanda.png)
+<br>
+ https://www.kandasoft.com
+<br>
+<contact@kandasoft.com>
+
 # License
 This code is distributed under the terms and conditions of the [MIT](LICENSE)
